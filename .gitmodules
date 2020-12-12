@@ -66,7 +66,7 @@
 	url = https://github.com/openssl/openssl
 [submodule "libssh"]
 	path = vpn-shared/libssh
-	url = https://git.libssh.org/projects/libssh.git
+	url = https://github.com/libssh/libssh-mirror.git
 [submodule "zlib"]
 	path = min-zlib/libz
 	url = https://chromium.googlesource.com/chromium/src/third_party/zlib.git
